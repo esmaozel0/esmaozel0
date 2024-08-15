@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @esmaozel0
+- 👀 I’m interested in Software
+- 🌱 I’m currently learning .Net
+- 💞️ I’m looking to collaborate on Ondent
